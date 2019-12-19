@@ -1,0 +1,38 @@
+"Source:","/home/uli/Documents/KiCAD/Boards/VGA/VGA.sch"
+"Date:","Fri 13 Dec 2019 15:05:54 CST"
+"Tool:","Eeschema 5.1.5-52549c5~84~ubuntu18.04.1"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","16"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","J1","Conn_01x16","Connector_Generic:Conn_01x16","Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical","~"
+"","","J2","DB15_Female_HighDensity","Connector:DB15_Female_HighDensity","Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm"," ~"
+"","","R1","510","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+"","","R2","1k","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+"","","R3","2k","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+"","","R4","4k","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+"","","R5","510","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+"","","R6","1k","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+"","","R7","2k","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+"","","R8","4k","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+"","","R9","510","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+"","","R10","1k","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+"","","R11","2k","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+"","","R12","4k","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+"","","R13","82","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+"","","R14","82","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","1","J1","Conn_01x16","Connector_Generic:Conn_01x16","Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical","~"
+"2","1","J2","DB15_Female_HighDensity","Connector:DB15_Female_HighDensity","Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm"," ~"
+"3","3","R1, R5, R9","510","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+"4","3","R2, R6, R10","1k","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+"5","3","R3, R7, R11","2k","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+"6","3","R4, R8, R12","4k","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+"7","2","R13, R14","82","Device:R","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
