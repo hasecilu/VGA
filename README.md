@@ -5,8 +5,8 @@ This is a simple PCB board for interfacing a FPGA with SIL header to a VGA conne
 
 ![KiCad render](photos/VGA2.png)
 
-![KiCad render](photos/VGA_and_FPGA1.png)
+![photo1](photos/VGA_and_FPGA1.jpg)
 
-![KiCad render](photos/VGA_and_FPGA2.png)
+![photo2](photos/VGA_and_FPGA2.jpg)
 
 #Using the PCB board
