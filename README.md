@@ -7,7 +7,13 @@ First render
 ![KiCad render](photos/VGA1.png)
 
 Second render
-![KiCad render](photos/VGA2.png)
+![KiCad render](photos/VGA4.png)
+
+Third render
+![KiCad render](photos/VGA3.png)
+
+Fourth render
+![KiCad render](photos/VGA5.png)
 
 Please note that the VGA board showed in the next pictures is an older version and that's the reason there is a cable for connecting ground.
 The new version has ground pins on both sides to avoid use cables (generally ground pins are at the begin/end of one SIL header in the development boards).
