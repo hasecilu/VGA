@@ -25,6 +25,6 @@ Perpective view
 Top view
 ![photo2](photos/VGA_and_FPGA2.jpg)
 
-## Using the PCB board
+## Using the PCB
 
 [![KiCad render](photos/VGA.gif)](https://www.youtube.com/watch?v=zfjPtc4_cl0)
