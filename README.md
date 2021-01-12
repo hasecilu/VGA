@@ -19,7 +19,7 @@ Fourth render
 Please note that the VGA board showed in the next pictures is an older version and that's the reason there is a cable for connecting ground.
 The new version has ground pins on both sides to avoid use cables (generally ground pins are at the begin/end of one SIL header in the development boards).
 
-Perpective view
+Perspective view
 ![photo1](photos/VGA_and_FPGA1.jpg)
 
 Top view
