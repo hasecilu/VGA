@@ -2,7 +2,13 @@
 This is a simple PCB board for interfacing a FPGA with SIL header to a VGA connector to add video functionalities to your projects.
 Designed with [KiCad](https://kicad.org/download/)
 
-[Download here](https://github.com/hasecilu/VGA/archive/master.zip)
+[Download here](https://gitlab.com/hasecilu/VGA/-/archive/master/VGA-master.zip)
+
+## Important!
+
+For updates go to the [GitLab repo](https://gitlab.com/hasecilu/VGA)
+
+## Pictures
 
 First render
 ![KiCad render](photos/VGA1.png)
